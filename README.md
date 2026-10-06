@@ -1,4 +1,4 @@
-# Hi, I'm Derek 👋
+# Hi, I'm Derrick 👋
 
 I'm a Mathematics of Computation student at UCLA, interested in privacy, mathematics, and building useful software.
 
