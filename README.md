@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Derek 👋
 
-<!--
-**Derrick2007/Derrick2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics of Computation student at UCLA, interested in privacy, mathematics, and building useful software.
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on a research project in **Yuan Tian's lab at UCLA**, focusing on **privacy in note-taking**.
+
+## Projects
+
+- **[MyUCLA Workspace](https://github.com/comet-ctrl/myucla-workspace)** — I contribute to a browser extension that improves the MyUCLA Class Planner interface.
+
+## Languages & Tools
+
+**Languages:** C · C++ · Python · Java · TypeScript  
+**Tools:** Git
+
+## Interests
+
+- Privacy and its role in everyday software
+- Mathematics and computation
+- Building practical tools and improving user experience
